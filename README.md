@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a CS , I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Flutter, Dart, or anything related to cross platform development.
 - ⚡ My hobby is reading.
 - 👨‍💻 Check out my profile  at www.linkedin.com/in/ahmed-talat-912a34202 to see some of the projects I've worked on.
