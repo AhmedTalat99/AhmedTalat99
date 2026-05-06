@@ -14,7 +14,7 @@
 - 👨‍💻 Junior Flutter Developer with hands-on experience building scalable mobile apps  
 - 🧠 Strong in **Clean Architecture, BLoC, API integration, and real-time apps**  
 - 📱 Passionate about building high-performance cross-platform applications  
-- 🔍 Currently exploring **Backend (.NET) **  
+- 🔍 Currently exploring Backend (.NET)  
 - 📫 Reach me on LinkedIn below  
 
 ---
