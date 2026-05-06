@@ -56,9 +56,11 @@
 ---
 
 ## 📊 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTalat99&layout=compact&theme=radical" />
-<br><br>
 
-<a href="https://komarev.com/ghpvc/?username=AhmedTalat99&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=AhmedTalat99&style=for-the-badge">
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTalat99&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AhmedTalat99&style=for-the-badge" />
+</p>
