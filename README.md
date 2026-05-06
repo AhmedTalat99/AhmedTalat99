@@ -1,42 +1,64 @@
-
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Ahmed Talat's profile !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hi, I'm Ahmed Talat 👋
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20Developer;Clean%20Architecture%20Enthusiast;Building%20Scalable%20Mobile%20Apps&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&size=22">
 </p> 
 
-- 🏢 I'm a Software Engineer 
-- 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Flutter, Dart, or anything related to cross platform development.
-- ⚡ My hobby is reading.
-- 👨‍💻 Check out my profile  at www.linkedin.com/in/ahmed-talat-912a34202 to see some of the projects I've worked on.
+---
 
+## 🚀 About Me
+- 👨‍💻 Junior Flutter Developer with hands-on experience building scalable mobile apps  
+- 🧠 Strong in **Clean Architecture, BLoC, API integration, and real-time apps**  
+- 📱 Passionate about building high-performance cross-platform applications  
+- 🔍 Currently exploring **Backend (.NET) & IoT integration**  
+- 📫 Reach me on LinkedIn below  
 
-### Connect with Me :
+---
 
-<a href="www.linkedin.com/in/ahmed-talat-912a34202" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Talat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ahmed_talat99" target="_blank"><img src="https://img.shields.io/badge/Ahmed%20Talat-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart&logoColor=563D7C)&nbsp;
-![Widgets](https://img.shields.io/badge/-Widgets-05122A?style=flat&logo=Widgets)&nbsp;
-![Packages](https://img.shields.io/badge/-Packages-05122A?style=flat&logo=Packages&logoColor=1572B6)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
+![Bloc](https://img.shields.io/badge/-Bloc-05122A?style=flat&logo=flutter)&nbsp;
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)&nbsp;
+![REST API](https://img.shields.io/badge/-REST%20API-05122A?style=flat)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+---
 
+## 💼 Featured Projects
 
+### 🔹 Smart Budget App
+- Full-stack expense tracker using **Flutter & Supabase**
+- Real-time data sync & secure authentication  
+- Built with **Clean Architecture & BLoC**
 
+### 🔹 Autikid (Graduation Project)
+- AI-powered app supporting children learning  
+- Integrated **VQA model + APIs**  
+- Focused on usability and smooth UX  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=yousefdergham&style=for-the-badge">
+---
+
+## 🔗 Connect with Me
+<a href="https://www.linkedin.com/in/ahmed-talat-41243b3bb/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Talat-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://t.me/ahmed_talat99" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Ahmed%20Talat-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+---
+
+## 📊 GitHub Stats
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTalat99&show_icons=true&locale=en&layout=compact&theme=radical" />
+<br><br>
+
+<a href="https://komarev.com/ghpvc/?username=AhmedTalat99&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=AhmedTalat99&style=for-the-badge">
 </a>
