@@ -14,7 +14,7 @@
 - 👨‍💻 Junior Flutter Developer with hands-on experience building scalable mobile apps  
 - 🧠 Strong in **Clean Architecture, BLoC, API integration, and real-time apps**  
 - 📱 Passionate about building high-performance cross-platform applications  
-- 🔍 Currently exploring **Backend (.NET) & IoT integration**  
+- 🔍 Currently exploring **Backend (.NET) **  
 - 📫 Reach me on LinkedIn below  
 
 ---
@@ -56,7 +56,7 @@
 ---
 
 ## 📊 GitHub Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedTalat99&show_icons=true&locale=en&layout=compact&theme=radical" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTalat99&layout=compact&theme=radical" />
 <br><br>
 
 <a href="https://komarev.com/ghpvc/?username=AhmedTalat99&style=for-the-badge">
